@@ -10,6 +10,11 @@
       "StackName": "amplify-sampleamplifynextjs-dev-82350",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:171822756182:stack/amplify-sampleamplifynextjs-dev-82350/be660ed0-5c97-11ed-8d8a-06367a85aaa1",
       "AmplifyAppId": "d1tmq6xmvhdf6z"
+    },
+    "categories": {
+      "api": {
+        "sampleamplifynextjs": {}
+      }
     }
   }
 }
